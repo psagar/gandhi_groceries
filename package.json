@@ -1,0 +1,8 @@
+{
+  "name": "gandhi_groceries-beta",
+  "version": "1.0.0",
+  "description": "Gandhi Groceries",
+  "dependencies": {
+      "express": "*"
+  }
+}
